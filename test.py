@@ -1,3 +1,6 @@
+s;lnaskl;dj
+aslkjskjv
+askl;ja;skjvn
 import sys
 
 numbers = []
