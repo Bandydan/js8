@@ -1,7 +1,3 @@
-sldkjcaskljc
-aslkdjsadlkjfh
-asl;fkjasld;kadfjsk
-
 import sys
 
 numbers = []
